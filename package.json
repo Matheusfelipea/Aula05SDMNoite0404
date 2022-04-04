@@ -1,0 +1,19 @@
+{
+  "name": "aula05sdmnoite0404",
+  "version": "1.0.0",
+  "description": "Criando uma API RESTFul com NodeJse express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheusfelipea/Aula05SDMNoite0404.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matheusfelipea/Aula05SDMNoite0404/issues"
+  },
+  "homepage": "https://github.com/Matheusfelipea/Aula05SDMNoite0404#readme"
+}
